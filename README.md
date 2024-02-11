@@ -101,65 +101,91 @@ Welcome to the "Learn Jenkins" repository! This repository is designed to help y
 - Using cron expressions, triggers, and schedulers
 - Implementing job automation best practices
 - Creating reusable job templates and configurations
-  4.2 Jenkins Job DSL (Domain Specific Language)
+
+##### 4.2 Jenkins Job DSL (Domain Specific Language)
+
 - Introduction to Jenkins Job DSL
 - Writing job DSL scripts to define and configure jobs programmatically
 - Managing job configurations as code
-  4.3 Integrating with Version Control Systems
+
+##### 4.3 Integrating with Version Control Systems
+
 - Integrating Jenkins with Git, SVN, and other version control systems
 - Automating build and deployment workflows with version control hooks
 - Implementing code review and approval processes in Jenkins
-  4.4 Automated Testing and Reporting
+
+##### 4.4 Automated Testing and Reporting
+
 - Configuring automated testing frameworks (e.g., JUnit, Selenium)
 - Generating test reports and trend analysis
 - Incorporating test automation into CI/CD pipelines
-  4.5 Building Docker Images and Deploying Containers
+
+##### 4.5 Building Docker Images and Deploying Containers
+
 - Docker integration with Jenkins
 - Building Docker images as part of CI/CD pipeline
 - Deploying containers to various environments using Jenkins
 
-Module 5: Jenkins Monitoring and Maintenance
-5.1 Monitoring Jenkins
+### Module 5: Jenkins Monitoring and Maintenance
+
+##### 5.1 Monitoring Jenkins
 
 - Monitoring Jenkins performance metrics
 - Analyzing Jenkins logs for troubleshooting
 - Setting up alerts and notifications
-  5.2 Troubleshooting Common Issues
+
+##### 5.2 Troubleshooting Common Issues
+
 - Identifying and resolving common Jenkins issues
 - Troubleshooting build failures and pipeline errors
 - Debugging Jenkins configurations and scripts
-  5.3 Backup and Disaster Recovery
+
+##### 5.3 Backup and Disaster Recovery
+
 - Implementing backup strategies for Jenkins configurations and data
 - Planning for disaster recovery scenarios
 - Restoring Jenkins from backups
-  5.4 Upgrading Jenkins
+
+##### 5.4 Upgrading Jenkins
+
 - Planning and executing Jenkins upgrades
 - Managing plugin compatibility and dependencies
 - Rolling back upgrades and handling version conflicts
-  5.5 Jenkins Configuration as Code (JCasC)
+
+##### 5.5 Jenkins Configuration as Code (JCasC)
+
 - Managing Jenkins configuration as code using JCasC
 - Automating Jenkins setup and configuration
 - Versioning and tracking changes to Jenkins configurations
 
-Module 6: Jenkins Best Practices and Industry Use Cases
-6.1 Best Practices for Jenkins Job Design
+### Module 6: Jenkins Best Practices and Industry Use Cases
+
+##### 6.1 Best Practices for Jenkins Job Design
 
 - Designing efficient and scalable Jenkins pipelines
 - Optimizing job configurations for performance
 - Implementing code quality checks and best practices
-  6.2 CI/CD Best Practices with Jenkins
+
+##### 6.2 CI/CD Best Practices with Jenkins
+
 - Implementing CI/CD workflows using Jenkins
 - Ensuring pipeline reliability and repeatability
 - Incorporating feedback loops and continuous improvement
-  6.3 Jenkins Integration with DevOps Tools
+
+##### 6.3 Jenkins Integration with DevOps Tools
+
 - Integrating Jenkins with Docker, Kubernetes, Ansible, and other DevOps tools
 - Orchestrating complex workflows across multiple tools and environments
 - Implementing infrastructure as code (IaC) with Jenkins
-  6.4 Real-World Use Cases and Case Studies
+
+##### 6.4 Real-World Use Cases and Case Studies
+
 - Exploring real-world implementations of Jenkins in industry
 - Analyzing use cases and success stories
 - Learning from common challenges and solutions
-  6.5 Interview Preparation and Mock Interviews
+
+##### 6.5 Interview Preparation and Mock Interviews
+
 - Reviewing common Jenkins-related interview questions
 - Practicing technical interviews with Jenkins focus
 - Receiving feedback and guidance for interview readiness
