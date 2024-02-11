@@ -2,6 +2,8 @@
 
 Welcome to the "Learn Jenkins" repository! This repository is designed to help you learn Jenkins, a powerful open-source automation server.
 
+## < --- In Progress --- >
+
 ## Table of Contents
 
 ### Module 1: Introduction to Jenkins
@@ -36,49 +38,65 @@ Welcome to the "Learn Jenkins" repository! This repository is designed to help y
 
 ### Module 2: Jenkins Fundamentals
 
-2.1 Working with Jenkins Pipelines
+##### [2.1 Working with Jenkins Pipelines](./M-02/2.1-Working-with-Jenkins-Pipelines.md)
 
 - Understanding Declarative vs. Scripted pipelines
 - Creating and managing pipeline jobs
 - Writing Jenkinsfiles to define pipeline stages and steps
-  2.2 Jenkinsfile: Syntax and Best Practices
+
+##### [2.2 Jenkinsfile: Syntax and Best Practices](./M-02/2.2-Jenkinsfile-Syntax-Best-Practices.md)
+
 - Syntax overview and structure of Jenkinsfile
 - Best practices for writing efficient and maintainable Jenkinsfiles
 - Utilizing shared libraries and global variables
-  2.3 Parameterized Builds and Environment Variables
+
+##### [2.3 Parameterized Builds and Environment Variables](./M-02/2.3-Parameterized-Builds-Environment-Variables.md)
+
 - Defining parameters for builds
 - Passing and using environment variables in Jenkins jobs
 - Dynamic build configurations based on parameters
-  2.4 Triggering Builds
+
+##### 2.4 Triggering Builds
+
 - Configuring build triggers: Poll SCM, webhooks, and other methods
 - Understanding build dependencies and downstream jobs
 - Exploring advanced triggering options
-  2.5 Managing Jenkins Pipelines
+
+##### 2.5 Managing Jenkins Pipelines
+
 - Monitoring and visualizing pipeline executions
 - Handling parallelism and concurrency in pipelines
 - Pipeline optimization and performance tuning techniques
 
-Module 3: Advanced Jenkins Concepts
-3.1 Distributed Builds
+### Module 3: Advanced Jenkins Concepts
+
+##### 3.1 Distributed Builds
 
 - Configuring Jenkins agents for distributed builds
 - Understanding the master-slave architecture
 - Scaling Jenkins with distributed builds
-  3.2 Jenkins Security
+
+##### 3.2 Jenkins Security
+
 - Authentication methods and user management
 - Role-based access control (RBAC)
 - Implementing security best practices
-  3.3 Jenkins High Availability (HA)
+
+##### 3.3 Jenkins High Availability (HA)
+
 - Setting up Jenkins in a high availability environment
 - Configuring load balancing and failover mechanisms
 - Ensuring data integrity and resilience
-  3.4 Extending Jenkins Functionality
+
+##### 3.4 Extending Jenkins Functionality
+
 - Exploring advanced Jenkins features (e.g., pipeline libraries, custom tools)
 - Integrating external tools and services with Jenkins
 - Extending Jenkins capabilities through custom plugins and integrations
 
-Module 4: Jenkins Automation
-4.1 Automating Jenkins Jobs
+### Module 4: Jenkins Automation
+
+##### 4.1 Automating Jenkins Jobs
 
 - Using cron expressions, triggers, and schedulers
 - Implementing job automation best practices
