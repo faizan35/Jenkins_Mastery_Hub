@@ -1,6 +1,13 @@
 # Learn Jenkins
 
-Here's a comprehensive, industry-level Jenkins learning syllabus aimed at making you job-ready as a DevOps engineer:
+
+## Clone the Reop
+
+```sh
+git clone https://github.com/faizan35/Pri_Jenkins_Mastery_Hub.git
+```
+
+
 
 ### **1. Introduction to Jenkins**
 
