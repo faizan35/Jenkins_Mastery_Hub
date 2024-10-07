@@ -1,23 +1,25 @@
 # Learn Jenkins
 
-
 ## Clone the Reop
 
 ```sh
 git clone https://github.com/faizan35/Pri_Jenkins_Mastery_Hub.git
 ```
 
-
-
 ### **1. Introduction to Jenkins**
 
-- **What is Jenkins?**: Understanding CI/CD principles
-- **Jenkins Architecture**: Master-slave architecture, agents, executors
-- **Jenkins Installation**:
-  - Install Jenkins on various environments (Windows, Linux, Docker, Kubernetes)
-  - Configuring Jenkins through CLI and GUI
-  - Installing Jenkins on AWS (EC2)
-  - Running Jenkins with Docker Compose
+#### **1.1. What is Jenkins?**: Understanding CI/CD principles
+
+#### **1.2. Jenkins Architecture**: Master-slave architecture, agents, executors
+
+#### [**1.3. Jenkins Installation**](./01-Introduction-to-Jenkins/1.3-Jenkins-Installation.md)
+
+- Install Jenkins on various environments (Windows, Linux, Docker, Kubernetes)
+- Configuring Jenkins through CLI and GUI
+- Installing Jenkins on AWS (EC2)
+- Running Jenkins with Docker Compose
+
+---
 
 ### **2. Jenkins Basics**
 
